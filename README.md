@@ -6,6 +6,6 @@
 - 👀 I’m interested in data structure and web dev 
 - 🌱 I’m currently learning <b>DSA</b>
 - 📫 How to reach me - <b>anubhavsingh9412@gmail.com</b>
-- well in <b>HTMl, CSS, JS</b>
-<img align="left" alt="emoji" ![contact](https://github.com/user-attachments/assets/914b3173-1ed1-47ee-b47c-9c4fc5e01f9e)>
-If you like what you saw below, feel free to get in contact!
+- 👨🏻‍💻 well in <b>HTMl, CSS, JS</b>
+<img align="left" width="300" alt="emoji" src="https://github.com/user-attachments/assets/914b3173-1ed1-47ee-b47c-9c4fc5e01f9e">
+<p><h2 align="center">If you like what you saw bellow<br>feel free to get in contact! through 👇🏻<br><a href="https://www.instagram.com/anubhhavsingh/"><img src=""></a></h2></p>
