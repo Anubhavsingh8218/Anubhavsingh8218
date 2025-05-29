@@ -1,6 +1,6 @@
 
 ![coding cloud](https://github.com/user-attachments/assets/fadcd09b-6ba1-40e4-99c8-ab3596710c39)<hr>
-<h1 align="center">Myself Anubhav Singh</h1>
+<h1 align="center">I'm Anubhav Singh</h1>
 
 - 👋 Hi, I’m <b>Anubhav Singh</b>
 - 👀 I’m interested in data structure and web dev 
