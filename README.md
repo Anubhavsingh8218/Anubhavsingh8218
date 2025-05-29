@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Anubhavsingh8218
+- 👋 Hi, I’m Anubhav Singh
 - 👀 I’m interested in data structure and web dev 
 - 🌱 I’m currently learning DSA
 - 📫 How to reach me - anubhavsingh9412@gmail.com
