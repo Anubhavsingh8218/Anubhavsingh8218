@@ -1,9 +1,8 @@
 
-![coding cloud](https://github.com/user-attachments/assets/fadcd09b-6ba1-40e4-99c8-ab3596710c39)<hr>
+![coding cloud](https://github.com/user-attachments/assets/fadcd09b-6ba1-40e4-99c8-ab3596710c39)
 <h1 align="center">I'm Anubhav Singh</h1>
 
-- 👋 Hi, I’m <b>Anubhav Singh</b>
-- 👀 I’m interested in data structure and web dev 
+- 👀 I’m interested in game dev and web dev 
 - 🌱 I’m currently learning <b>DSA</b>
 - 📫 How to reach me - <b>anubhavsingh9412@gmail.com</b>
 - 👨🏻‍💻 well in <b>HTML, CSS, JS</b>
