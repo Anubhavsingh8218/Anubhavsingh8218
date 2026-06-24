@@ -1,9 +1,26 @@
-<h1 align="center">Hello_Guys!</h1>
+# Hey, I'm Anubhav 👋
 
--> Quite recently i have been exploring Data Science & AI/ML <br>
--> Currently learning <b>DSA</b><br>
--> How to reach me - <b>anubhavsingh9412@gmail.com</b><br>
--> well grasp in <b>C++, Python, MYSQL, HTMl, Css</b> & ideal in JavaScript
+Engineering student, currently pointed at **Data Science & Machine Learning** — learning in public, one dataset/DSA problem at a time.
+
+- 🔭 Right now: building a foundation in **Python, statistics, and ML fundamentals**, while keeping DSA sharp (problem-solving is the same muscle either way)
+- 📚 Background: comfortable in **C++, Python, SQL, HTML/CSS**, picking up the data stack (NumPy/Pandas/scikit-learn) next
+- 🧪 Shipped: two Java console apps (ATM simulator + number guessing game) during my Oasis Infobyte internship — basic, but they were my first taste of writing software that *had* to handle bad input gracefully
+- 🎯 Goal: a portfolio of real, messy-data ML projects — not tutorial clones — by the time I'm interviewing for full-time roles
+- 💬 Ask me about: DSA problems I'm stuck on, or what dataset I'm currently fighting with
+- 📫 Reach me: anubhavsingh9412@gmail.com · [LinkedIn](https://www.linkedin.com/in/anubhav-singh-36748934b/)
+
+---
+
+> If you're an interviewer skimming this: I'm early-stage and not pretending otherwise. What I'd want you to take away is that I document what I build, I don't inflate it, and I'm consistent — check the commit history, not just the repo count.
+
+<details>
+<summary>📈 GitHub Stats</summary>
+<br>
+
+![Anubhav's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anubhavsingh8218&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anubhavsingh8218&layout=compact&theme=tokyonight&hide_border=true)
+
+</details>
 
 
 
