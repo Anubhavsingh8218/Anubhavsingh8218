@@ -13,15 +13,6 @@ Engineering student, currently pointed at **Data Science & Machine Learning** �
 
 > If you're an interviewer skimming this: I'm early-stage and not pretending otherwise. What I'd want you to take away is that I document what I build, I don't inflate it, and I'm consistent — check the commit history, not just the repo count.
 
-<details>
-<summary>📈 GitHub Stats</summary>
-<br>
-
-![Anubhav's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anubhavsingh8218&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anubhavsingh8218&layout=compact&theme=tokyonight&hide_border=true)
-
-</details>
-
 
 
 
